@@ -1,3 +1,5 @@
-requests                                                         
-random                                                           
+pandas
+streamlit
+requests
+random
 pycountry
